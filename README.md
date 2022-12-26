@@ -8,6 +8,6 @@
 * As learning algorithms, K-means clustering is used with different cluster valus
 * To find the optimal cluster number K, the Elbo method is used.
 
-   ##### Language used: R
-   ##### Tools used : Ggplot, Jupyter Notebook 
+  ##### Language used: R
+  ##### Tools used : Ggplot, Jupyter Notebook 
 
