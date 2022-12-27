@@ -50,19 +50,37 @@
   ##### Tools used : pandas, numpy, seaborn, matplotlib, sklear
   
 #### Dataset
-|Demographic features     |Personality measurement features | Targets|
-|---|---|---|
-|Age | Nscore|  Cannabis	|
-|Gender |  Escore| Benzos|
-|Education|  Oscore| Amphet|
-| Country          |          score|  |
-|Ethnicity                    |        Cscore|  
-|     |    Impulsive       |     |      
-|     |  SS|       | 
+   |Demographic features     |Personality measurement features | Targets|
+   |---|---|---|
+   |Age | Nscore|  Cannabis	|
+   |Gender |  Escore| Benzos|
+   |Education|  Oscore| Amphet|
+   | Country          |          score|  |
+   |Ethnicity                    |        Cscore|  
+   |     |    Impulsive       |     |      
+   |     |  SS|       | 
 
 &emsp;
 
 
 ![image](https://user-images.githubusercontent.com/67466471/209580348-b112a9fb-12b8-4bdb-aed9-2bd9a84f4a38.png)
+
+
+### [Analysis: Telecom Customer Churn](https://github.com/Yuzerzef/Analysis-Telecom-Customer-Churn)
+
+* In this project, an in-depth analysis and investigation of the Telecom customer churn dataset is performed in order to gain meaningful insight that can assist organizations in making more informed decisions. 
+
+  ##### Language used: Python
+  ##### Tools used : pandas, numpy, seaborn,
+
+&emsp;
+### Some snapshots 
+
+![image](https://user-images.githubusercontent.com/67466471/192094078-25a31fa9-a3bb-47e0-98dd-5600c04eb93e.png)
+
+![image](https://user-images.githubusercontent.com/67466471/192094085-847c53f6-bdd7-4887-9f28-4fe852ba1a4e.png)
+
+![image](https://user-images.githubusercontent.com/67466471/192094102-c8c90788-cb8f-4b50-aa08-75fc1a535558.png)
+
 
 
