@@ -30,7 +30,7 @@
   ##### Language used: Python
   ##### Tools used : pandas, numpy, seaborn, matplotlib, sklear
   
-  ### [Banknote prediction using Decision tree](https://github.com/Yuzerzef/Banknote-prediction-using-Decision_tree) 
+ ### [Banknote prediction using Decision tree](https://github.com/Yuzerzef/Banknote-prediction-using-Decision_tree) 
 
 * The primary objective of this project was to develop an automated learning model that can classify banknotes based on their features.
 * As a learning algorithm, a decision tree is used.
