@@ -2,7 +2,7 @@
 
 # List of projects 
 
-## [Customer segmentation using K-means clustering |USM project|](https://github.com/Yuzerzef/Customer-segmentation-using-K-means)
+### [Customer segmentation using K-means clustering |USM project|](https://github.com/Yuzerzef/Customer-segmentation-using-K-means)
 
 * The aim of the project was to segment customers based on their demographic features, including age, marital status, sex, education, income, etc., to identify which consumers are similar to each other so that the business could target each segment of their customers with their relevant needs at the right time. Moreover, develop relevant strategies and make informed decisions.
 * As learning algorithms, K-means clustering is used with different cluster valus
@@ -12,7 +12,7 @@
   ##### Tools used : Ggplot, Jupyter Notebook 
 
 
-## [Space X Falcon 9 First Stage Landing Prediction | IBM DATA SCIENCE project|](https://github.com/Yuzerzef/IBM-DATA-SCIENCE)
+### [Space X Falcon 9 First Stage Landing Prediction | IBM DATA SCIENCE project|](https://github.com/Yuzerzef/IBM-DATA-SCIENCE)
 
 * The goal of this project was to predict whether or not SpaceX's Falcon 9 First Stage would land based on its relevant features.
 * EDA, data pre-processing, data visualization, modeling, and evaluation were performed.
@@ -29,4 +29,14 @@
 
   ##### Language used: Python
   ##### Tools used : pandas, numpy, seaborn, matplotlib, sklear
+  
+  ### [Banknote prediction using Decision tree](https://github.com/Yuzerzef/Banknote-prediction-using-Decision_tree) 
+
+* The primary objective of this project was to develop an automated learning model that can classify banknotes based on their features.
+* As a learning algorithm, a decision tree is used.
+* The obtained accuracy, precision, and recall are 99%, 98.5%, and 98.5%, respectively.
+
+  ##### Language used: Python
+  ##### Tools used : pandas, numpy, seaborn, matplotlib, sklear
+
 
