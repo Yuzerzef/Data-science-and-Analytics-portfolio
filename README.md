@@ -50,15 +50,15 @@
   ##### Tools used : pandas, numpy, seaborn, matplotlib, sklear
   
 #### Dataset
-  |Demographic features     |Personality measurement features | Targets|
-  |---|---|---|
-  |Age | Nscore|  Cannabis	|
-  |Gender |  Escore| Benzos|
-  |Education|  Oscore| Amphet|
-  | Country          |          score|  |
-  |Ethnicity                    |        Cscore|  
-  |     |    Impulsive       |     |      
-  |     |  SS|       | 
+ |Demographic features     |Personality measurement features | Targets|
+ |---|---|---|
+ |Age | Nscore|  Cannabis	|
+ |Gender |  Escore| Benzos|
+ |Education|  Oscore| Amphet|
+ | Country          |          score|  |
+ |Ethnicity                    |        Cscore|  
+ |     |    Impulsive       |     |      
+ |     |  SS|       | 
 
 &emsp;
 
